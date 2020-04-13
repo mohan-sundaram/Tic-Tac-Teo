@@ -1,0 +1,12 @@
+.name {
+    font-size: 150px;
+}
+
+.score {
+    font-size: 28px;
+}
+
+.player,.card {
+    text-align: center;
+    font-size: 28px;
+}
